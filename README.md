@@ -10,9 +10,7 @@ this is my github pro "profile"
 
   
 ## 🛠 Skills
-web devp
-recently getting in touch with python 
-hates JAVAAAA
+web dev who recently got in touch with python
 
 ## Support
 
