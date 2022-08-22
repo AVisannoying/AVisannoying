@@ -10,11 +10,12 @@ this is my github pro "profile"
 
   
 ## 🛠 Skills
-Javascript, HTML, CSS & JAVA
+web devp
+recently getting in touch with python 
+hates JAVAAAA
 
-  
 ## Support
 
-For support, email theaaravshow43@gmail.com or join our discord server.
+For support, email theaaravshow43+help@gmail.com or join our discord server.
 
   
